@@ -1,0 +1,13 @@
+vagrant box add
+#Create a folder to keep your course work in:
+mkdir name
+#Change into the Working Folder
+cd 
+#Create a Vagrant Project Folder
+mkdir 
+#Create Your First Vagrant Project
+vagrant init
+#Create Your First Virtual Machine
+vagrant up
+#Connect to the Virtual Machine
+vagrant ssh 
